@@ -1,0 +1,27 @@
+.side-menu {
+    padding: 15px;
+    background-color: #2596be !important;
+
+    .nav-menu-title {
+        margin-top: 20px;
+        font-size: 13px;
+    }
+
+    .side-menu__button {
+        width: 100%;
+        background-color: #2596be;
+        border: 1px solid #CCC;
+        font-size: 13px;
+        color: #FFF;
+        text-align: left;
+        margin-top: 5px;
+    }
+
+    .side-menu__button:hover {
+        background-color: #FFF;
+        color: #2596be
+    }
+}
+
+
+
