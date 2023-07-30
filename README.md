@@ -8,7 +8,7 @@ A LabMedical é um software de gestão médica desenvolvida para auxiliar na adm
 
 O objetivo principal é oferecer uma plataforma que simplifique processos de atendimento, gerenciamento de consultas, exames e prontuários de paciente.
 
-#####Funcionalidades Principais
+##### Funcionalidades Principais
 
 - Cadastro e gerenciamento de pacientes
 - Cadastro e gerenciamento de exames
